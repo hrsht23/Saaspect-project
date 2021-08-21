@@ -1,0 +1,1402 @@
+@media (min-width: 1024px){
+  body {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    background: linear-gradient(117.06deg, #4EC8FC 2.2%, rgba(144, 78, 252, 0.67) 88.15%);
+  }
+  .Signupbox {
+    position: absolute;
+    width: 1519px;
+    height: 857px;
+    left: 186px;
+    top: 94px;
+    
+  }
+h1 {
+position: absolute;
+left: 76.17%;
+right: 9.22%;
+top: 3.38%;
+bottom: 92.77%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+
+color: #000000;
+
+}
+
+.Signupbox p[class="name"] {
+
+    position: absolute;
+    left: 65.64%;
+    right: 29.43%;
+    top: 10.49%;
+    bottom: 84.13%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.4837px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+
+.Signupbox p[class="email"] {
+
+ position: absolute;
+left: 65.64%;
+right: 27.58%;
+top: 22.15%;
+bottom: 72.58%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 17.4837px;
+line-height: 26px;
+
+color: #000000;
+}
+
+.Signupbox p[class="pwd"] {
+    
+position: absolute;
+left: 65.64%;
+right: 27.58%;
+top: 34.71%;
+bottom: 61.14%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 17.4837px;
+line-height: 26px;
+/* identical to box height */
+color: #000000;
+}
+.Signupbox p[class="cpwd"] {
+
+ position: absolute;
+left: 65.64%;
+right: 20.41%;
+top: 45.49%;
+bottom: 49.12%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 17.4837px;
+line-height: 26px;
+
+color: #000000;
+}
+
+.Signupbox p[class="submit"] {
+
+position: absolute;
+left: 76.81%;
+right: 16.56%;
+top: 62.05%;
+bottom: 33.33%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+}
+
+
+
+.Signupbox input[name="Name"] {
+
+    width:458px ; 
+    height:52px ;
+
+ 
+    position: absolute;
+    left: 65.64%;
+    right: 4.21%;
+    top: 16.57%;
+    bottom: 77.36%;
+    
+    background: rgba(228, 241, 255, 0.78);
+    border-radius: 6.99346px;
+    
+}
+
+.Signupbox input[name="Email"] {
+
+   /* Rectangle 12 */
+   width:458px ; 
+   height:52px ;
+position: absolute;
+left: 65.64%;
+right: 4.21%;
+top: 28%;
+bottom: 65.93%;
+
+background: #EAF4FF;
+border-radius: 6.99346px;
+
+}
+
+.Signupbox input[name="pwd"] {
+
+/* Rectangle 13 */
+width:458px ; 
+height:52px ;
+position: absolute;
+left: 65.64%;
+right: 4.21%;
+top: 40.02%;
+bottom: 53.91%;
+
+background: #EAF4FF;
+border-radius: 6.99346px;
+
+
+}
+
+.Signupbox input[name="cpwd"] {
+
+/* Rectangle 14 */
+width:458px ; 
+height:52px ;
+position: absolute;
+left: 65.64%;
+right: 4.21%;
+top: 51.81%;
+bottom: 42.12%;
+
+background: #EAF4FF;
+border-radius: 6.99346px;
+
+
+}
+
+.Signupbox input[name="submit"] {
+
+    position: absolute;
+    left: 73.81%;
+    right: 13.74%;
+    top: 60.93%;
+    bottom: 33.33%;
+    
+    background: #0075FF;
+    border-radius: 6.99346px;
+    
+}
+
+.Signupbox div[class="footer"] p {
+
+
+position: absolute;
+left: 64.85%;
+right: 1.12%;
+top: 90.25%;
+bottom: 5.6%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 17.4837px;
+line-height: 20px;
+
+color: #000000;
+}
+
+.Signupbox div[class="footer"] a{
+
+
+    position: absolute;
+    left: 91.85%;
+    right: 1.12%;
+    top: 91.25%;
+    bottom: 5.6%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.4837px;
+    line-height: 20px;
+    
+    color: #000000;
+
+}
+.Signupbox p[class="or"] {
+
+    /* or connect with */
+
+position: absolute;
+left: 76.18%;
+right: 16.26%;
+top: 70.6%;
+bottom: 26.95%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 13.9869px;
+line-height: 21px;
+/* identical to box height */
+
+color: rgba(82, 82, 82, 0.8);
+
+
+}
+.Signupbox hr[class="l3"] {
+    /* Line 3 */
+
+position: absolute;
+left: 61.48%;
+right: 25.72%;
+top: 71.96%;
+bottom: 28.04%;
+
+border: 0.699346px solid rgba(82, 82, 82, 0.5);
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+}
+
+.Signupbox hr[class="l4"] {
+
+    /* Line 4 */
+
+position: absolute;
+left: 85.08%;
+right: 1.12%;
+top: 71.93%;
+bottom: 28.07%;
+
+border: 0.699346px solid rgba(82, 82, 82, 0.5);
+transform: matrix(1, 0, 0, 1, 0, 0);
+
+}
+.Signupbox img[class="one"] {
+
+    /* icons8-microsoft 1 */
+width: 50px;
+height: 50px;
+position: absolute;
+left: 70.57%;
+right: 26.79%;
+top: 79.18%;
+bottom: 17.15%;
+
+}
+.Signupbox img[class="one"]:hover {
+
+    background:lightblue
+
+}
+
+.Signupbox img[class="two"] {
+
+    /* icons8-google-48 2 */
+    width: 50px;
+    height: 50px;
+position: absolute;
+left: 79.72%;
+right: 18.13%;
+top: 79.88%;
+bottom: 17.42%;
+
+background: url(google.png);
+
+
+}
+.Signupbox img[class="two"]:hover {
+
+ background:lightblue
+
+
+}
+
+    
+
+.Signupbox svg[class="three"] {
+
+    /* Vector */
+
+position: absolute;
+left: 75.25%;
+right: 22.4%;
+top: 78.41%;
+bottom: 17.43%;
+
+background: #0075FF;
+
+}
+
+.Signupbox svg[class="four"] {
+
+    /* icons8-google-48 2 */
+
+position: absolute;
+left: 79.72%;
+right: 18.13%;
+top: 78.88%;
+bottom: 17.42%;
+
+background: url(icons8-google-48.png);
+
+}
+
+.Signupbox svg[class="rect1"] {
+
+    /* Rectangle 239 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+}
+
+.Signupbox img[class="rect2"] {
+
+    /* i2145mHyP5d0nNf 1 */
+
+position: absolute;
+width: 815px;
+height: 775px;
+left: 47px;
+top: 46px;
+
+background: url(leftimg.jfif);
+border-radius: 30px;
+
+}
+.Signupbox i[id="togglePassword"] {
+  
+  position: absolute;
+left: 93.98%;
+right: 6.63%;
+top: 42.24%;
+bottom: 56.3%;
+}
+
+.Signupbox i[id="togglePassword1"] {
+  
+    position: absolute;
+  left: 93.98%;
+  right: 6.63%;
+  top: 54.24%;
+  bottom: 56.3%;
+  }
+
+.Signupbox img[class="faceb"] {
+
+    /* Vector */
+width: 50px;
+height: 50px;
+position: absolute;
+left: 75.25%;
+right: 22.4%;
+top: 79.41%;
+bottom: 17.43%;
+
+background: #0075FF;
+
+}
+.Signupbox img[class="faceb"]:hover {
+
+    background:lightblue
+
+}
+
+
+.Signupbox img[class="lin"] {
+
+width: 50px;
+height: 50px;
+position: absolute;
+left: 84%;
+right: 13.72%;
+top: 79.53%;
+bottom: 17.43%;
+}
+.Signupbox img[class="lin"]:hover {
+
+    background: lightblue;
+    }
+.Signupbox input[type="submit"] {
+    width: 189.1px;
+    
+    height: 49.18px;
+    
+    position: absolute;
+    left: 74.81%;
+    right: 16.56%;
+    top: 62.05%;
+    bottom: 33.33%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+}
+
+}
+
+@media (min-width: 481px) and (max-width: 1023px){
+
+    body {
+        position: relative;
+        width: 834px;
+        height: 1194px;
+        
+        background: linear-gradient(147.29deg, #4FC6FC -38.17%, #AC80F4 91.05%);
+        
+      }
+      .Signupbox {
+        position: absolute;
+        width: 785px;
+        height: 442.89px;
+        left: calc(50% - 785px/2 - 0.5px);
+        top: calc(50% - 442.89px/2 - 3.56px);
+      }
+    h1 {
+        position: absolute;
+        left: 75.38%;
+        right: 10.01%;
+        top: 3.62%;
+        bottom: 92.53%;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15.5036px;
+        line-height: 23px;
+        
+        color: #000000;
+        
+    
+    }
+    
+    .Signupbox p[class="name"] {
+    
+        position: absolute;
+        left: 65.64%;
+        right: 29.43%;
+        top: 12.49%;
+        bottom: 84.13%;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9.03533px;
+        line-height: 14px;
+        
+        color: #000000;
+        
+    }
+    
+    .Signupbox p[class="email"] {
+    
+        position: absolute;
+        left: 65.64%;
+        right: 27.58%;
+        top: 24.15%;
+        bottom: 72.58%;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9.03533px;
+        line-height: 14px;
+        
+        color: #000000;
+    }
+    
+    .Signupbox p[class="pwd"] {
+        
+        position: absolute;
+        left: 65.64%;
+        right: 27.58%;
+        top: 35.71%;
+        bottom: 61.14%;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9.03533px;
+        line-height: 14px;
+        /* identical to box height */
+        
+        
+        color: #000000;
+        
+    }
+    .Signupbox p[class="cpwd"] {
+    
+        position: absolute;
+        left: 65.64%;
+        right: 20.41%;
+        top: 47.49%;
+        bottom: 49.12%;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9.03533px;
+        line-height: 14px;
+        
+        color: #000000;
+        
+    }
+    
+    .Signupbox p[class="submit"] {
+    
+    position: absolute;
+    left: 76.81%;
+    right: 16.56%;
+    top: 62.05%;
+    bottom: 33.33%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+    }
+    
+    
+    
+    .Signupbox input[name="Name"] {
+        width:236.69px ; 
+        height:26.87px ;
+     
+        position: absolute;
+        left: 65.64%;
+        right: 4.21%;
+        top: 16.57%;
+        bottom: 77.36%;
+        
+        background: rgba(228, 241, 255, 0.78);
+        border-radius: 6.99346px;
+        
+    }
+    
+    .Signupbox input[name="Email"] {
+    
+       /* Rectangle 12 */
+       width:236.69px ; 
+       height:26.87px ;
+    position: absolute;
+    left: 65.64%;
+    right: 4.21%;
+    top: 28%;
+    bottom: 65.93%;
+    
+    background: #EAF4FF;
+    border-radius: 6.99346px;
+    
+    }
+    
+    .Signupbox input[name="pwd"] {
+    
+    /* Rectangle 13 */
+    width:236.69px ; 
+    height:26.87px ;
+    position: absolute;
+    left: 65.64%;
+    right: 4.21%;
+    top: 40.02%;
+    bottom: 53.91%;
+    
+    background: #EAF4FF;
+    border-radius: 6.99346px;
+    
+    
+    }
+    
+    .Signupbox input[name="cpwd"] {
+    
+    /* Rectangle 14 */
+    width:236.69px ; 
+    height:26.87px ;
+    position: absolute;
+    left: 65.64%;
+    right: 4.21%;
+    top: 51.81%;
+    bottom: 42.12%;
+    
+    background: #EAF4FF;
+    border-radius: 3.61413px;
+    
+    
+    }
+    
+    .Signupbox input[name="submit"] {
+    
+        position: absolute;
+        left: 73.81%;
+        right: 13.74%;
+        top: 60.93%;
+        bottom: 33.33%;
+        
+        background: #0075FF;
+        border-radius: 6.99346px;
+        
+    }
+    
+    .Signupbox div[class="footer"] p {
+    
+    
+        position: absolute;
+        left: 64.85%;
+        right: 1.12%;
+        top: 91.25%;
+        bottom: 5.6%;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9.03533px;
+        line-height: 11px;
+        
+        color: #000000;
+        
+    
+    
+    }
+    
+    .Signupbox div[class="footer"] a{
+    
+        position: absolute;
+        left: 64.85%;
+        right: 1.12%;
+        top: 91.25%;
+        bottom: 5.6%;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9.03533px;
+        line-height: 11px;
+        
+        color: #000000;
+        
+    
+    }
+    .Signupbox p[class="or"] {
+    
+        /* or connect with */
+    
+        position: absolute;
+        left: 64.85%;
+        right: 1.12%;
+        top: 91.25%;
+        bottom: 5.6%;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9.03533px;
+        line-height: 11px;
+        
+        color: #000000;
+        
+    
+    
+    }
+    .Signupbox hr[class="l3"] {
+        /* Line 3 */
+    
+        position: absolute;
+        left: 61.48%;
+        right: 25.72%;
+        top: 72.06%;
+        bottom: 27.94%;
+        
+        border: 0.361413px solid rgba(82, 82, 82, 0.5);
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    
+    }
+    
+    .Signupbox hr[class="l4"] {
+    
+        /* Line 4 */
+    
+        position: absolute;
+        left: 86.08%;
+        right: 1.12%;
+        top: 71.93%;
+        bottom: 28.07%;
+        
+        border: 0.361413px solid rgba(82, 82, 82, 0.5);
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    
+    }
+    .Signupbox img[class="one"] {
+    
+        /* icons8-microsoft 1 */
+    width: 20.67px;
+    height: 20.67px;
+    
+    position: absolute;
+    left: 70.57%;
+    right: 26.79%;
+    top: 78.18%;
+    bottom: 17.15%;
+    
+    }
+    .Signupbox img[class="one"]:hover {
+    
+        background:lightblue
+    
+    }
+    
+    .Signupbox img[class="two"] {
+    
+        /* icons8-google-48 2 */
+        width: 18.67px;
+        height: 16.38px;
+    position: absolute;
+    left: 79.72%;
+    right: 18.13%;
+    top: 79.88%;
+    bottom: 17.42%;
+    
+    background: url(google.png);
+    
+    
+    }
+    .Signupbox img[class="two"]:hover {
+    
+     background:lightblue
+    
+    
+    }
+    
+        
+    
+    .Signupbox svg[class="three"] {
+    
+        /* Vector */
+    
+    position: absolute;
+    left: 75.25%;
+    right: 22.4%;
+    top: 78.41%;
+    bottom: 17.43%;
+    
+    background: #0075FF;
+    
+    }
+    
+    .Signupbox svg[class="four"] {
+    
+        /* icons8-google-48 2 */
+    
+    position: absolute;
+    left: 79.72%;
+    right: 18.13%;
+    top: 78.88%;
+    bottom: 17.42%;
+    
+    background: url(icons8-google-48.png);
+    
+    }
+    
+    .Signupbox svg[class="rect1"] {
+    
+        /* Rectangle 239 */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #FFFFFF;
+    border-radius: 30px;
+    
+    }
+    
+    .Signupbox img[class="rect2"] {
+    
+        /* i2145mHyP5d0nNf 1 */
+    
+        position: absolute;
+        left: 3.09%;
+        right: 43.25%;
+        top: 5.37%;
+        bottom: 4.2%;
+        
+        background: url(leftimg.jfif);
+        border-radius: 15.5036px;
+    
+    }
+    .Signupbox i[id="togglePassword"] {
+      
+        position: absolute;
+        left: 92.39%;
+        right: 7.05%;
+        top: 42.72%;
+        bottom: 56.3%;
+        
+        background: #000000;
+    }
+    
+    .Signupbox i[id="togglePassword1"] {
+      
+        position: absolute;
+        left: 92.39%;
+        right: 7.05%;
+        top: 53.85%;
+        bottom: 45.17%;
+        
+        background: #000000;
+      }
+    
+    .Signupbox img[class="faceb"] {
+    
+        /* Vector */
+    width: 18.44px;
+    height: 18.39px;
+    position: absolute;
+    left: 75.25%;
+    right: 22.4%;
+    top: 79.41%;
+    bottom: 17.43%;
+    
+    background: #0075FF;
+    
+    }
+    .Signupbox img[class="faceb"]:hover {
+    
+        background:lightblue
+    
+    }
+    
+    
+    .Signupbox img[class="lin"] {
+    
+    width: 9.99px;
+    height: 9.54px;
+    position: absolute;
+    left: 84%;
+    right: 13.72%;
+    top: 78.53%;
+    bottom: 17.43%;
+    }
+    .Signupbox img[class="lin"]:hover {
+    
+        background: lightblue;
+        }
+    .Signupbox input[type="submit"] {
+        width: 189.1px;
+        
+        height: 49.18px;
+        
+        position: absolute;
+        left: 74.81%;
+        right: 16.56%;
+        top: 62.05%;
+        bottom: 33.33%;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+        
+        color: #FFFFFF;
+        
+    }
+
+}
+
+
+
+
+    @media (max-width: 480px){
+
+        
+  body {
+    position: relative;
+    width: 375px;
+    height: 812px;
+    
+    background: linear-gradient(166.99deg, #4FC6FC 1.12%, #AC80F4 100%);
+    
+  }
+  /* .Signupbox {
+    position: absolute;
+    width: 1519px;
+    height: 857px;
+    left: 186px;
+    top: 94px;
+    
+  } */
+h1 {
+position: absolute;
+left: 76.17%;
+right: 9.22%;
+top: 3.38%;
+bottom: 92.77%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+
+color: #000000;
+
+}
+
+.Signupbox p[class="name"] {
+
+ 
+position: absolute;
+left: 19.64%;
+right: 70.03%;
+top: 30.33%;
+bottom: 67.82%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 9.03533px;
+line-height: 14px;
+
+color: #000000;
+    
+}
+
+.Signupbox p[class="email"] {
+
+    position: absolute;
+    left: 19.64%;
+    right: 66.17%;
+    top: 36.69%;
+    bottom: 61.52%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9.03533px;
+    line-height: 14px;
+    
+    color: #000000;
+}
+
+.Signupbox p[class="pwd"] {
+    
+    position: absolute;
+    left: 19.64%;
+    right: 66.17%;
+    top: 42.99%;
+    bottom: 55.29%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9.03533px;
+    line-height: 14px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+    
+}
+.Signupbox p[class="cpwd"] {
+
+    position: absolute;
+    left: 19.64%;
+    right: 51.15%;
+    top: 49.42%;
+    bottom: 48.73%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9.03533px;
+    line-height: 14px;
+    
+    color: #000000;
+}
+
+.Signupbox p[class="submit"] {
+
+position: absolute;
+left: 76.81%;
+right: 16.56%;
+top: 62.05%;
+bottom: 33.33%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+}
+
+
+
+.Signupbox input[name="Name"] {
+
+    width:236.69px    ; 
+    height:26.87px ;
+
+    position: absolute;
+    left: 19.64%;
+    right: 17.25%;
+    top: 32.56%;
+    bottom: 64.13%;
+    
+    background: rgba(228, 241, 255, 0.78);
+    border-radius: 3.61413px;
+    
+    
+}
+
+.Signupbox input[name="Email"] {
+
+   /* Rectangle 12 */
+   width:236.69px    ; 
+   height:26.87px ;
+
+   position: absolute;
+   left: 19.64%;
+   right: 17.25%;
+   top: 32.56%;
+   bottom: 64.13%;
+   
+   background: rgba(228, 241, 255, 0.78);
+   border-radius: 3.61413px;
+   
+
+}
+
+.Signupbox input[name="pwd"] {
+
+/* Rectangle 13 */
+width:236.69px    ; 
+height:26.87px ;
+
+position: absolute;
+left: 19.64%;
+right: 17.25%;
+top: 32.56%;
+bottom: 64.13%;
+
+background: rgba(228, 241, 255, 0.78);
+border-radius: 3.61413px;
+
+
+
+}
+
+.Signupbox input[name="cpwd"] {
+
+/* Rectangle 14 */
+width:236.69px    ; 
+height:26.87px ;
+
+position: absolute;
+left: 19.64%;
+right: 17.25%;
+top: 32.56%;
+bottom: 64.13%;
+
+background: rgba(228, 241, 255, 0.78);
+border-radius: 3.61413px;
+
+
+
+}
+
+.Signupbox input[name="submit"] {
+
+    position: absolute;
+    left: 38.04%;
+    right: 38.47%;
+    top: 56.75%;
+    bottom: 40.12%;
+    
+    background: #0075FF;
+    border-radius: 3.61413px;
+}
+
+.Signupbox div[class="footer"] p {
+
+    position: absolute;
+    left: 33.6%;
+    right: 30.67%;
+    top: 70.69%;
+    bottom: 27.59%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 9.03533px;
+    line-height: 11px;
+    
+    color: #000000;
+    
+
+}
+
+.Signupbox div[class="footer"] a{
+
+
+    position: absolute;
+    left: 43.6%;
+    right: 30.67%;
+    top: 70.69%;
+    bottom: 27.59%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 9.03533px;
+    line-height: 11px;
+    
+    color: #000000;
+    
+
+}
+.Signupbox p[class="or"] {
+
+    /* or connect with */
+    position: absolute;
+    left: 41.07%;
+    right: 41.02%;
+    top: 62.07%;
+    bottom: 36.59%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 7.22827px;
+    line-height: 11px;
+    /* identical to box height */
+    
+    
+    color: rgba(82, 82, 82, 0.8);
+    
+
+
+}
+.Signupbox hr[class="l3"] {
+/* Line 5 */
+width: 106px;
+position: absolute;
+left: 10.93%;
+right: 60.8%;
+top: 62.82%;
+bottom: 37.18%;
+
+border: 0.361413px solid rgba(82, 82, 82, 0.5);
+transform: rotate(-0.07deg);
+
+}
+
+.Signupbox hr[class="l4"] {
+
+/* Line 6 */
+width:121.62px;
+position: absolute;
+left: 56.8%;
+right: 10.77%;
+top: 62.81%;
+bottom: 37.19%;
+
+border: 0.361413px solid rgba(82, 82, 82, 0.5);
+transform: rotate(-0.37deg);
+
+}
+.Signupbox img[class="one"] {
+
+    /* icons8-microsoft 1 */
+width: 20px;
+height: 20px;
+position: absolute;
+left: 32.27%;
+right: 62.22%;
+top: 66.01%;
+bottom: 31.44%;
+}
+.Signupbox img[class="one"]:hover {
+
+    background:lightblue
+
+}
+
+.Signupbox img[class="two"] {
+
+    /* icons8-google-48 2 */
+    width: 20px;
+    height: 20px;
+   
+position: absolute;
+left: 51.42%;
+right: 44.08%;
+top: 66.39%;
+bottom: 31.59%;
+
+
+background: url(google.png);
+
+
+}
+.Signupbox img[class="two"]:hover {
+
+ background:lightblue
+
+
+}
+
+    
+
+.Signupbox svg[class="three"] {
+
+    /* Vector */
+
+position: absolute;
+left: 75.25%;
+right: 22.4%;
+top: 78.41%;
+bottom: 17.43%;
+
+background: #0075FF;
+
+}
+
+.Signupbox svg[class="four"] {
+
+    /* icons8-google-48 2 */
+
+position: absolute;
+left: 79.72%;
+right: 18.13%;
+top: 78.88%;
+bottom: 17.42%;
+
+background: url(icons8-google-48.png);
+
+}
+
+.Signupbox svg[class="rect1"] {
+
+    /* Rectangle 239 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+}
+
+
+.Signupbox i[id="togglePassword"] {
+    position: absolute;
+    left: 75.65%;
+    right: 23.18%;
+    top: 46.82%;
+    bottom: 52.64%;
+}
+
+.Signupbox i[id="togglePassword1"] {
+  
+position: absolute;
+left: 75.65%;
+right: 23.18%;
+top: 53.02%;
+bottom: 46.45%;
+  }
+
+.Signupbox img[class="faceb"] {
+
+    /* Vector */
+width: 20px;
+height: 20px;
+position: absolute;
+left: 42.05%;
+right: 53.03%;
+top: 66.14%;
+bottom: 31.6%;
+
+background: #0075FF;
+}
+.Signupbox img[class="faceb"]:hover {
+
+    background:lightblue
+
+}
+
+
+.Signupbox img[class="lin"] {
+width: 20px;
+height: 20px;
+    position: absolute;
+    left: 60.38%;
+    right: 34.84%;
+    top: 66.2%;
+    bottom: 31.59%;
+    
+    background: #007AB9;
+}
+.Signupbox img[class="lin"]:hover {
+
+    background: lightblue;
+    }
+.Signupbox input[type="submit"] {
+    width: 189.1px;
+    
+    height: 49.18px;
+    
+    position: absolute;
+    left: 74.81%;
+    right: 16.56%;
+    top: 62.05%;
+    bottom: 33.33%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+    
+  }
+}

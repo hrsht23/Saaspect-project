@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- social media icons  -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+
+    <!-- Google font  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="stylelog.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- eye icon  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="Signupbox">
+        <form>
+            <svg class="rect1" width="1519" height="857" viewBox="0 0 1519 857" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="1519" height="857" rx="30" fill="white"/>
+                </svg>
+                <img class="rect2" src="leftimg.jfif" alt="">                
+                
+                    <h1><b>Login</b></h1> 
+                <p class="email">Email</p> 
+        <input type="text" name="Email" ><br><br>
+       <p class="pwd">Password</p>
+        <input id="id_password" type="text" name="pwd" vector=""placeholder="Min 8 chars " pattern="^[A-za-0-9]{8,12}" required><br><br>
+        <i class="far fa-eye" id="togglePassword"></i><br>
+                <!-- <div>
+                    <label for="Confirm_Password">Confirm Password</label><br><input type="password" class="input" id="id_password1"><i class="far fa-eye" id="togglePassword1"></i><br>
+                </div> -->
+            
+                <p class="submit">Login</p>
+        
+                <input type="submit" name="submit" value="Login">
+                
+               
+                 
+                 <hr class="l3"><p class="or">or connect with</p><hr class="l4">   
+                 <ul class="sci">
+                    <li> <a href="#" ><img class="two" src="google.png" alt="google"></a></li>
+                     <li><a href="#" ><img class="faceb" src="faceb.png" alt="facebook"></a></li>
+                     <li><a href="#" ><img class="lin" src="link.png" alt="linkedin"></a></li>
+                     <li><a href="#" ><img class="one" src="win.png" alt="microsoft"></a></li>
+                 </ul>
+                 <div class="footer">
+                    <p>Already have an account?</p>
+                    <a href="indexlog.html" style="text-decoration: none; color: black;">Sign-up</a>
+                </div> 
+    <script>
+     const togglePassword = document.getElementById('togglePassword');
+  const password = document.querySelector('#id_password');
+ 
+  togglePassword.addEventListener('click', function (e) {
+    // toggle the type attribute
+    const type = password.getAttribute('type') === 'password' ? 'text' : 'password';
+    password.setAttribute('type', type);
+    // toggle the eye slash icon
+    this.classList.toggle('fa-eye-slash');
+}); </script>
+</body>
+
+</html>
